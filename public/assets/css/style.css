@@ -33,6 +33,13 @@ main {
     padding: 20px;
 }
 
+main h1 {
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #f00;
+}
+
 main div {
     background: #c0e297;
     padding: 20px;
